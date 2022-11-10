@@ -1,0 +1,6 @@
+/Users/salt-dev/bootCamp/week10/PHD/Festivity/obj/Debug/net6.0/Festivity.csproj.AssemblyReference.cache
+/Users/salt-dev/bootCamp/week10/PHD/Festivity/obj/Debug/net6.0/Festivity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salt-dev/bootCamp/week10/PHD/Festivity/obj/Debug/net6.0/Festivity.AssemblyInfoInputs.cache
+/Users/salt-dev/bootCamp/week10/PHD/Festivity/obj/Debug/net6.0/Festivity.AssemblyInfo.cs
+/Users/salt-dev/bootCamp/week10/PHD/Festivity/obj/Debug/net6.0/Festivity.csproj.CoreCompileInputs.cache
+/Users/salt-dev/bootCamp/week10/PHD/Festivity/obj/Debug/net6.0/Festivity.MvcApplicationPartsAssemblyInfo.cache
